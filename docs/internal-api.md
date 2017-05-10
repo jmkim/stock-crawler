@@ -2,7 +2,7 @@
 
 ## Interfaces
 
-### RetrieveDataInterface ([`src/RetrieveDataInterface.hpp`]( ../src/RetrieveDataFromYahooFinance.hpp ))
+### RetrieveDataInterface ([`src/RetrieveDataInterface.hpp`]( ../src/RetrieveDataInterface.hpp ))
 - RetrieveData
 
 ## Classes
