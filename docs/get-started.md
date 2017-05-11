@@ -5,9 +5,9 @@
 2. [How to use]( #how-to-use )
 
 ## How to build
-Universal Stock Crawler requires `libcurl-dev` and `cmake`.
+Universal Stock Crawler requires `libcurl4-dev` and `cmake`.
 ```bash
-$ sudo apt install libcurl-dev cmake
+$ sudo apt install libcurl4-openssl-dev cmake
 ```
 
 Download the source.
@@ -22,7 +22,7 @@ $ unzip master.zip
 
 Build the source.
 ```bash
-$ cd master/
+$ cd ./stock-crawler-master
 $ cmake .
 ```
 
