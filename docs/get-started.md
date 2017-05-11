@@ -24,6 +24,7 @@ Build the source.
 ```bash
 $ cd ./stock-crawler-master
 $ cmake .
+$ make
 ```
 
 ## How to use
