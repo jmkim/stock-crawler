@@ -42,7 +42,7 @@ Following example is retrieving the [NASDAQ Composite stock data from Yahoo Fina
 */
 stock_crawler::RetrieveDataFromYahooFinance ("^IXIC", "1399474800", "1494169200", "1d");
 ```
-For more information, see the [API documentation]( external-api.md#retrievedata ).
+For more information, see the [API documentation]( external-api.md#retrievedatafromyahoofinancestdstringstdstringstdstringstdstringstdstringstdstring ).
 
 #### Examples
 - [`examples/yahoo_finance.cpp`]( ../examples/yahoo_finance.cpp )
