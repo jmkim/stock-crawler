@@ -6,6 +6,7 @@ You can retrieve all kinds of stock market data provided by supported sources (b
 - [Get started]( ./docs/get-started.md )
 - [Download]( https://github.com/kdzlvaids/stock-crawler/archive/master.zip )
 - [API Documentation]( ./docs/api-documentation.md )
+- [Examples]( ./examples )
 - [Sources]( ./src )
 
 ## Supported sources
