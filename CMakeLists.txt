@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.7)
+cmake_minimum_required(VERSION 3.1)
 project(stock_crawler)
 
 set(CMAKE_CXX_STANDARD 14)
